@@ -2,9 +2,9 @@
 - 👀 I’m interested in all with computers =)
 - 🌱 I’m currently learning: hacking (ethical)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Zandgar on discord
+- 📫 How to reach me: Zandgar on discord, corentin.charlesdinam@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Idk...
+- ⚡ Fun fact: Idk how to make 3d in python... (it's not really a fun fact, but I don't have any ideas of fun facts so...)
 
 <!---
 Zandgar11/Zandgar11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
